@@ -1,0 +1,25 @@
+{
+  "name": "metrophilly",
+  "owner": {
+    "name": "Metro Church Digital Technologies",
+    "email": "paul@metrophilly.org",
+    "url": "https://github.com/metrophilly"
+  },
+  "description": "Shared Claude skills for Metro Church ministry and engineering work",
+  "plugins": [
+    {
+      "name": "metro-sermon-content",
+      "source": "./plugins/metro-sermon-content",
+      "description": "Sermon video descriptions and title options in Metro's house style",
+      "category": "content",
+      "tags": ["sermon", "youtube", "copywriting", "metro"]
+    },
+    {
+      "name": "metro-engineering",
+      "source": "./plugins/metro-engineering",
+      "description": "Design review, domain modeling, and architecture skills for the volunteer engineering team",
+      "category": "engineering",
+      "tags": ["architecture", "ddd", "design-review", "metro"]
+    }
+  ]
+}
