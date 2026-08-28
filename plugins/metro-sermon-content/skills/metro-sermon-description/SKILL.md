@@ -37,7 +37,7 @@ If the user asks for it "shorter," compress to two tight paragraphs; if "less th
 
 ### Metadata block
 
-Place directly under the body copy. Use an em dash / en dash for the passage range. Fill in the passage from the transcript (the reader almost always states it up front). Leave bracketed placeholders for the rest — these are never in the transcript:
+Place directly under the body copy. Use an en dash for the passage range. Fill in the passage from the transcript (the reader almost always states it up front). Leave bracketed placeholders for the rest — these are never in the transcript:
 
 ```
 Passage: [BOOK C:V–V]

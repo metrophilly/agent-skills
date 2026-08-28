@@ -47,9 +47,10 @@ Claude.ai settings. No plugin machinery required.
 | `metro-sermon-description` | Transcript to YouTube/Instagram video description in Metro's house format |
 | `metro-sermon-titles` | 5–7 title options with SEO and click-appeal notes |
 
-House style is enforced inside the skills: no em dashes anywhere in Metro
-sermon copy, en dashes for passage ranges only, NIV 1984 default, hooks drawn
-only from what the pastor actually preached.
+House style is enforced inside the skills: en dashes for passage ranges, an em
+dash between the passage and "Sermon" in the title format (the only em dash in
+Metro sermon copy, aside from the one inside the fixed boilerplate), NIV 1984
+default, hooks drawn only from what the pastor actually preached.
 
 ### metro-engineering
 
@@ -58,11 +59,6 @@ only from what the pastor actually preached.
 | `grill-me` | Interviews you on a plan or design until the decision tree is resolved |
 | `ubiquitous-language` | Extracts a DDD glossary from a conversation into `UBIQUITOUS_LANGUAGE.md` |
 | `improve-codebase-architecture` | Surfaces deepening opportunities and refactor candidates |
-
-> `improve-codebase-architecture` is **incomplete**. Its `SKILL.md` links to
-> `LANGUAGE.md`, `DEEPENING.md`, `INTERFACE-DESIGN.md`, and `HTML-REPORT.md`,
-> which are stubs in this repo. Port the real content before the team relies
-> on it.
 
 ## Auto-enable for a project
 
