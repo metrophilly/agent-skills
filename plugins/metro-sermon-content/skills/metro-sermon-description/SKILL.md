@@ -28,10 +28,24 @@ Wrap the whole thing so the user can copy it directly. After delivering, ask for
 Three paragraphs is the default shape, but two is fine for a shorter deck. The arc:
 
 - **Open with a hook.** Lead with a question or the sermon's own opening framing — the tension or question the pastor himself set up. ("Why does grace make some of us angry?" / "What does it really mean to know who Jesus is?" / "At the source of every experience of suffering...") Don't open with dry setup like "In this sermon we will examine."
-- **Walk the sermon's actual movement.** Most Metro sermons have an explicit structure (e.g. "who he is, what he did, what we're supposed to do with it" or "the diagnosis of anger, the root cause, and the cure"). Name it and trace it in the pastor's own terms and images. Land on the gospel turn — the point where the sermon moves to Christ and the cross — because that's where these sermons always resolve.
+- **Walk the sermon's actual movement.** Most Metro sermons have an explicit structure (e.g. "who he is, what he did, what we're supposed to do with it" or "the diagnosis of anger, the root cause, and the cure"). Name it in the pastor's own terms. Point toward the gospel turn, the point where the sermon moves to Christ and the cross, because that's where these sermons always resolve. Allude to the illustrations and the gospel turn; don't give them away (see "Allude, don't reveal" below).
 - **Close with an invitation to watch.** Address the first-time viewer directly: someone who might be "empty, dry, desperate, or simply curious," "exploring Christianity, wrestling with doubt, or seeking encouragement." Invite them to watch. End with a short, plain call like "Take a few minutes to watch" or "watch, and see who Jesus really is." This last move is what separates a description from a pure summary — always include it unless the user explicitly asks for summary-only.
 
 Tone: warm, clear, unhurried, non-clichéd. Reformed and gospel-centered but accessible to a non-churchgoer. Avoid churchy jargon that a first-time YouTube viewer wouldn't parse.
+
+#### Allude, don't reveal
+
+The description is a trailer, not a recap. It makes the viewer want to watch, so it must not give away the punchlines.
+
+Name each illustration by its setup only: who, where, or when. Do not state what the illustration shows, how it ends, or the line that lands it. Group the setups in one sentence, then say in general terms what they do for the sermon.
+
+Do the same for the gospel turn. Pose the question the sermon answers and name where it answers it (for example, "at the cross"). Do not lay out the full answer.
+
+Example. Do not write: "Our hearts are like the two pilots of Air France Flight 447, who gave conflicting commands to the same plane. We go down not because we have no pilot, but because we have too many."
+
+Write: "To answer, he goes back to two brothers in Genesis, to a hard conversation between a husband and wife, and to a flight over the Atlantic Ocean in 2009. Each one shows a difference between the jealousy we know and the jealousy of God, and why that difference matters for the way we love."
+
+The sermon's structure, its main points, and its opening question can still appear in full. Only the illustrations, their conclusions, and the details of the gospel turn stay hidden. If the user asks for a full summary, drop this rule.
 
 If the user asks for it "shorter," compress to two tight paragraphs; if "less than a summary" or "more of an invitation," strengthen the hook and the closing call to watch.
 
@@ -84,6 +98,6 @@ Transcripts are usually auto-generated, so expect artifacts: run-on sentences, m
 ## Quick workflow
 
 1. Read the transcript; identify the passage, the sermon's explicit structure/points, the key images the pastor used, and the gospel turn.
-2. Draft the three-paragraph body: hook → the sermon's actual movement → invitation to watch.
+2. Draft the three-paragraph body: hook → the sermon's actual movement, with illustrations alluded to by setup only → invitation to watch.
 3. Append the metadata block (passage filled, rest as placeholders) and the verbatim boilerplate.
 4. Deliver it copy-ready, then ask for title/preacher/series/air date and offer title options.
