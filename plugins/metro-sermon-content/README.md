@@ -23,9 +23,9 @@ Non-negotiables encoded in the skills: only what the pastor actually preached,
 no em dashes in any Metro sermon copy, en dashes for passage ranges only,
 NIV 1984 as the default translation.
 
-`reformed-research` sets a confessional Reformed lens as the default for every
-Bible or theology question in a session. Install this plugin only if that is
-the lens you want.
+`reformed-research` is Metro's team-wide default. Every Bible or theology
+question is answered from a confessional Reformed, Protestant, gospel-centered
+lens unless the user asks for another tradition or a neutral survey.
 
 `metro-sermon-metadata` reads `references/series.md`. Add a row there by pull
 request when a new series starts.

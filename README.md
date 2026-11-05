@@ -52,10 +52,10 @@ Claude.ai settings. No plugin machinery required.
 | `metro-copy-voice` | Internal and public writing registers, plus shared copy rules |
 | `reformed-research` | Reformed, confessional default lens for Bible and theology questions |
 
-House style is enforced inside the skills: en dashes for passage ranges, an em
-dash between the passage and "Sermon" in the title format (the only em dash in
-Metro sermon copy, aside from the one inside the fixed boilerplate), NIV 1984
-default, hooks drawn only from what the pastor actually preached.
+House style is enforced inside the skills: en dashes for passage ranges, a
+comma between the passage and "Sermon" in the title format, no em dashes in
+Metro sermon copy (the fixed boilerplate still has one, pending a decision),
+NIV 1984 default, hooks drawn only from what the pastor actually preached.
 
 ### metro-engineering
 
