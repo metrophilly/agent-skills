@@ -29,4 +29,4 @@ When the user names a series that is not in `references/series.md`, give them on
 
 ## House rules
 
-No em dashes. En dashes for passage ranges only. Placeholders stay in square brackets until a source supplies the value.
+No em dashes, except the one in the fixed description boilerplate, which stays as written. En dashes for passage ranges only. Placeholders stay in square brackets until a source supplies the value.

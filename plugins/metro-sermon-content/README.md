@@ -20,7 +20,7 @@ The skills usually trigger on their own — paste a transcript and ask for a
 description and the skill loads without the slash command.
 
 Non-negotiables encoded in the skills: only what the pastor actually preached,
-no em dashes in any Metro sermon copy, en dashes for passage ranges only,
+no em dashes in any Metro sermon copy (the one inside the fixed boilerplate stays), en dashes for passage ranges only,
 NIV 1984 as the default translation.
 
 `reformed-research` is Metro's team-wide default. Every Bible or theology

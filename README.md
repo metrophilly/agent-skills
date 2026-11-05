@@ -54,7 +54,7 @@ Claude.ai settings. No plugin machinery required.
 
 House style is enforced inside the skills: en dashes for passage ranges, a
 comma between the passage and "Sermon" in the title format, no em dashes in
-Metro sermon copy (the fixed boilerplate still has one, pending a decision),
+Metro sermon copy (the one em dash in the fixed boilerplate stays, verbatim),
 NIV 1984 default, hooks drawn only from what the pastor actually preached.
 
 ### metro-engineering

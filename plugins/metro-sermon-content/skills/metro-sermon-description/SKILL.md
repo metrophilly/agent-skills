@@ -63,7 +63,7 @@ Aired:  [DAY, DATE at TIME]
 
 ### Boilerplate
 
-Reproduce this block verbatim at the end of every description:
+Reproduce this block verbatim at the end of every description. It contains one em dash ("PA—through"). Keep it. This is the only em dash allowed in Metro copy. Do not add any other:
 
 ```
 Metro Church exists with the hope to "renew, retrain, and rebuild" the surrounding areas of Philadelphia, PA—through Christ-centered worship, genuine community, incarnational ministry, and radical generosity. To learn more about Metro, please visit us at https://metrophilly.org.

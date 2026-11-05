@@ -29,7 +29,7 @@ Never name a minor with a full name or grade in public copy. Never copy a block 
 
 ## Shared rules
 
-No em dashes. Use a comma or a period. En dashes only for number and passage ranges. Straight quotes. Sentence case for headings, except Metro sermon titles, which stay title case. No emojis. Few hyphens. Light use of bold. No bullet points in copy: write sentences, or use numbered steps when order matters. Present tense. Full sentences. No preamble and no heading echo. No aphorisms, no "at its core", no fake candor, no strawmen, no fake options.
+No em dashes. Use a comma or a period. The one exception is the fixed boilerplate in sermon descriptions, which keeps its em dash verbatim. En dashes only for number and passage ranges. Straight quotes. Sentence case for headings, except Metro sermon titles, which stay title case. No emojis. Few hyphens. Light use of bold. No bullet points in copy: write sentences, or use numbered steps when order matters. Present tense. Full sentences. No preamble and no heading echo. No aphorisms, no "at its core", no fake candor, no strawmen, no fake options.
 
 ## Check before you send
 
