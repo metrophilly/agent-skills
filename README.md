@@ -46,11 +46,16 @@ Claude.ai settings. No plugin machinery required.
 | --- | --- |
 | `metro-sermon-description` | Transcript to YouTube/Instagram video description in Metro's house format |
 | `metro-sermon-titles` | 5–7 title options with SEO and click-appeal notes |
+| `metro-sermon-metadata` | Fills preacher, series and air date in one pass |
+| `metro-sermon-discussion-questions` | Three-level small group questions from a sermon |
+| `metro-sermon-series-tagline` | One-sentence series tagline and card subtitle |
+| `metro-copy-voice` | Internal and public writing registers, plus shared copy rules |
+| `reformed-research` | Reformed, confessional default lens for Bible and theology questions |
 
-House style is enforced inside the skills: en dashes for passage ranges, an em
-dash between the passage and "Sermon" in the title format (the only em dash in
-Metro sermon copy, aside from the one inside the fixed boilerplate), NIV 1984
-default, hooks drawn only from what the pastor actually preached.
+House style is enforced inside the skills: en dashes for passage ranges, a
+comma between the passage and "Sermon" in the title format, no em dashes in
+Metro sermon copy (the one em dash in the fixed boilerplate stays, verbatim),
+NIV 1984 default, hooks drawn only from what the pastor actually preached.
 
 ### metro-engineering
 
@@ -59,6 +64,8 @@ default, hooks drawn only from what the pastor actually preached.
 | `grill-me` | Interviews you on a plan or design until the decision tree is resolved |
 | `ubiquitous-language` | Extracts a DDD glossary from a conversation into `UBIQUITOUS_LANGUAGE.md` |
 | `improve-codebase-architecture` | Surfaces deepening opportunities and refactor candidates |
+| `metro-page-wireframe` | Hi-fi page wireframes in Metro's real tokens and assets |
+| `expert-audit` | Audits from raw data with named methods and outside validation |
 
 ## Auto-enable for a project
 

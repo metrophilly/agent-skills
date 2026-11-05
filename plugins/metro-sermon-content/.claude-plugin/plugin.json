@@ -1,11 +1,15 @@
 {
   "name": "metro-sermon-content",
-  "description": "Sermon video descriptions and title options in Metro's house style",
+  "description": "Sermon video copy, series copy, Metro's copy voice, and a Reformed research lens for ministry content",
   "author": {
     "name": "Metro Church Digital Technologies",
     "email": "paul@metrophilly.org"
   },
   "homepage": "https://github.com/metrophilly/agent-skills",
   "repository": "https://github.com/metrophilly/agent-skills",
-  "keywords": ["sermon", "youtube", "copywriting"]
+  "keywords": [
+    "sermon",
+    "youtube",
+    "copywriting"
+  ]
 }
