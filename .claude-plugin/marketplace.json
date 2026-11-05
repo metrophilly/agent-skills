@@ -10,16 +10,26 @@
     {
       "name": "metro-sermon-content",
       "source": "./plugins/metro-sermon-content",
-      "description": "Sermon video descriptions and title options in Metro's house style",
+      "description": "Sermon video copy, series copy, Metro's copy voice, and a Reformed research lens for ministry content",
       "category": "content",
-      "tags": ["sermon", "youtube", "copywriting", "metro"]
+      "tags": [
+        "sermon",
+        "youtube",
+        "copywriting",
+        "metro"
+      ]
     },
     {
       "name": "metro-engineering",
       "source": "./plugins/metro-engineering",
-      "description": "Design review, domain modeling, and architecture skills for the volunteer engineering team",
+      "description": "Design review, domain modeling, architecture, page wireframe and audit skills for the volunteer engineering team",
       "category": "engineering",
-      "tags": ["architecture", "ddd", "design-review", "metro"]
+      "tags": [
+        "architecture",
+        "ddd",
+        "design-review",
+        "metro"
+      ]
     }
   ]
 }
