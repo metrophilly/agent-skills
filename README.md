@@ -65,6 +65,7 @@ NIV 1984 default, hooks drawn only from what the pastor actually preached.
 | `ubiquitous-language` | Extracts a DDD glossary from a conversation into `UBIQUITOUS_LANGUAGE.md` |
 | `improve-codebase-architecture` | Surfaces deepening opportunities and refactor candidates |
 | `metro-page-wireframe` | Hi-fi page wireframes in Metro's real tokens and assets |
+| `newcomer-seo-audit` | Audits Metro pages for newcomers: team checklist, LLM audit prompts and the newcomer test |
 | `expert-audit` | Audits from raw data with named methods and outside validation |
 
 ## Auto-enable for a project
